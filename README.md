@@ -1,5 +1,3 @@
-> **Maintained by [Joseph Ukeje](https://github.com/UkejeJoseph)**
-
 # Jcs.NET
 
 RFC 8785 JSON Canonicalization Scheme (JCS) for .NET. Deterministic JSON serialization for hashing and signing. Zero external dependencies.
